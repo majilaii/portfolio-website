@@ -1,0 +1,14 @@
+.introduction {
+  width: 100%;
+  height: max-content;
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  gap: 2rem;
+  padding-top: 20px;
+}
+
+h1 {
+  color: white;
+  font-size: 1em;
+}
