@@ -12,3 +12,13 @@ h1 {
   color: white;
   font-size: 1em;
 }
+
+.aboutLink {
+  color: white;
+  text-decoration: none;
+}
+
+.notActiveLink {
+  text-decoration: none;
+  color: grey;
+}
